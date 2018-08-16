@@ -1,6 +1,6 @@
-/*
-Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
-For licensing, see LICENSE.md or http://ckeditor.com/license
+﻿/*
+Copyright (c) 2003-2018, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
 */
 CKEDITOR.plugins.setLang( 'link', 'sl', {
 	acccessKey: 'Tipka za dostop',
@@ -19,6 +19,8 @@ CKEDITOR.plugins.setLang( 'link', 'sl', {
 	anchorName: 'Po imenu sidra',
 	charset: 'Nabor znakov povezanega vira',
 	cssClasses: 'Razredi slogovne predloge',
+	download: 'Force Download', // MISSING
+	displayText: 'Display Text', // MISSING
 	emailAddress: 'E-poštni naslov',
 	emailBody: 'Telo sporočila',
 	emailSubject: 'Zadeva sporočila',
